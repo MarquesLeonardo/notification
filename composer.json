@@ -1,5 +1,5 @@
 {
-    "name": "leonardo/notification",
+    "name": "marquesleonardo/notification",
     "description": "This library has the function of sending e-mail using the phpmailer library. Doing this in an uncomplicated way is essential for any system.",
     "type": "library",
     "license": "MIT",
