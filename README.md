@@ -10,7 +10,9 @@ composer require marquesleonardo/composer_teste
 To use the library, simply require the composer to autoload, invoke the class and call the method:  
 
 ```sh 
-<? php  require __DIR__. '/vendor/autoload.php';  
+<? php  
+
+require __DIR__. '/vendor/autoload.php';  
 
 USE Notification\Email;  
 
