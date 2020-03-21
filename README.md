@@ -4,7 +4,7 @@ Doing this in an uncomplicated way is essential for any system.
 To install the library, run the following command:  
 
 ``` sh 
-composer require marquesleonardo/composer_teste 
+composer require marquesleonardo/notification 
 ```  
 
 To use the library, simply require the composer to autoload, invoke the class and call the method:  
